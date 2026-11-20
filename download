@@ -1,6 +1,0 @@
-.env
-*.key
-*.pem
-*.pcap
-secrets/
-credentials/
